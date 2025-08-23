@@ -8,7 +8,7 @@ local menu_access_buttons_held=0
 local last_menu_button_press_time=nil
 local view="faders"
 
-local selected_channel=1
+local selected_fader=1
 
 function toggle_view()
 	print("toggle view: "..view)

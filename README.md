@@ -17,4 +17,22 @@ Follow `diii` install steps from the [monome iii repo](https://github.com/monome
 
 1. Run `diii` from your commandline of choice
 2. Run `^^c` to clear the currently installed script !This step is important, there is a bug causing issues flashing without a clear first!
-3. Run `u iiiano.lua` to upload the script
+3. Run `u fadiiir.lua` to upload the script
+
+## Slider Controls
+
+Bottom and top button: jump straight to the top or bottom position
+Middle buttons: progressively slower slews towards the target position
+Pressing the middle two buttons at the same time: jump straight to the middle position
+
+## Ideas
+
+* Layers
+  * Faders
+  * Configure
+  * Sequencer?
+* Assignable MIDI CCs per fader
+* Assignable MIDI channel per fader
+* Assignable MIDI value range per fader
+* MIDI clock sync'd sequencer?
+* Grid Zeros show two layers the same time
