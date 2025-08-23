@@ -36,3 +36,4 @@ Pressing the middle two buttons at the same time: jump straight to the middle po
 * Assignable MIDI value range per fader
 * MIDI clock sync'd sequencer?
 * Grid Zeros show two layers the same time
+* Need to find a better way to detect toggling layers on Grid One
